@@ -13,7 +13,7 @@ org; updates on every release.
 1. Open a **Join** issue in
    [`welcome`](https://github.com/DSL-Demo-f2027/welcome/issues/new/choose) to enrol - your
    GitHub handle is captured automatically.
-2. Once you're enrolled, course **materials** open up here week by week, and your
+2. Once you're enrolled, course **materials** open up here session by session, and your
    own assignment repositories appear in this org.
 
 ## Where things are
